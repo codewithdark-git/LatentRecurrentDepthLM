@@ -1,6 +1,6 @@
 # Latent Recurrent Depth Language Model
 
-[![Model](https://img.shields.io/badge/transformer-Model-orange?logo=pytorch)](https://huggingface.co/models/codewithdark/latent-recurrent-depth-lm)  
+[![Model](https://img.shields.io/badge/transformer-Model-orange?logo=pytorch)](https://huggingface.co/codewithdark/latent-recurrent-depth-lm)  
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-Space-yellow?logo=huggingface)](https://huggingface.co/spaces/codewithdark/LatentRecurrentDepthLM)  
 [![arXiv](https://img.shields.io/badge/arXiv-2502.05171-b31b1b.svg)](https://arxiv.org/abs/2502.05171)  
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
