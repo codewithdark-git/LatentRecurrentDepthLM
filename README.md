@@ -1,5 +1,10 @@
 # Latent Recurrent Depth Language Model
 
+[![Model](https://img.shields.io/badge/transformer-Model-orange?logo=pytorch)](https://huggingface.co/models/codewithdark/latent-recurrent-depth-lm)  
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-Space-yellow?logo=huggingface)](https://huggingface.co/spaces/codewithdark/LatentRecurrentDepthLM)  
+[![arXiv](https://img.shields.io/badge/arXiv-2502.05171-b31b1b.svg)](https://arxiv.org/abs/2502.05171)  
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
+
 Welcome to the **Latent Recurrent Depth Language Model** repository! This project provides an implementation of a deep language model that combines latent recurrent architectures with modern attention mechanisms. The model is designed for efficient sequence modeling and language understanding tasks.
 
 ---
